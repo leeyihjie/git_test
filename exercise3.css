@@ -1,0 +1,14 @@
+.short,
+.long {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif
+}
+
+.short {
+    background-color: black;
+    color: white;
+}
+
+.long {
+    background-color: yellow;
+}
